@@ -1,0 +1,230 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 27 Sep 2023 00:38:40 at https://sinaptika.mercubuana.ac.id/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://sinaptika.mercubuana.ac.id/ -O1 "C:\My Web Sites\sinaptika" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:38:58	Warning: 	file not stored in cache due to bogus state (broken size, expected 272300 got 65095): https://sinaptika.mercubuana.ac.id/wp-content/uploads/2016/08/2.jpg
+00:39:01	Warning: 	file not stored in cache due to bogus state (broken size, expected 223073 got 65096): https://sinaptika.mercubuana.ac.id/wp-content/uploads/2021/08/—Pngtree—paper-icon_4422781.png
+00:39:02	Warning: 	file not stored in cache due to bogus state (broken size, expected 152087 got 65096): https://sinaptika.mercubuana.ac.id/wp-content/uploads/2021/08/—Pngtree—communication-icon_3607833.png
+00:39:03	Warning: 	file not stored in cache due to bogus state (broken size, expected 165474 got 65095): https://sinaptika.mercubuana.ac.id/wp-content/uploads/2018/04/14-2017.jpg
+00:40:29	Error: 	"Forbidden" (403) at link https://sinaptika.mercubuana.ac.id/xmlrpc.php (from https://sinaptika.mercubuana.ac.id/)
+00:40:30	Warning: 	file not stored in cache due to bogus state (broken size, expected 165548 got 65081): https://sinaptika.mercubuana.ac.id/wp-content/themes/event/assets/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0
+00:40:51	Warning: 	file not stored in cache due to bogus state (broken size, expected 114928 got 65081): https://sinaptika.mercubuana.ac.id/wp-content/plugins/kingcomposer/assets/css/fonts/fa-solid-900.ttf
+00:40:53	Warning: 	Link https://sinaptika.mercubuana.ac.id/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+00:40:57	Warning: 	file not stored in cache due to bogus state (broken size, expected 250848 got 163338): https://sinaptika.mercubuana.ac.id/wp-content/uploads/2021/08/Template-ADIMASSI.docx
+00:40:58	Warning: 	file not stored in cache due to bogus state (broken size, expected 397001 got 65095): https://sinaptika.mercubuana.ac.id/wp-content/uploads/2018/04/seminar.jpg
+00:41:19	Warning: 	Retry after error -4 (No data (connection closed)) at link https://sinaptika.mercubuana.ac.id/acomodation/hotels/ (from https://sinaptika.mercubuana.ac.id/)
+00:41:23	Warning: 	Retry after error -4 (No data (connection closed)) at link https://sinaptika.mercubuana.ac.id/tentang-sinaptika/committe/ (from https://sinaptika.mercubuana.ac.id/)
+00:41:38	Warning: 	Retry after error -4 (Incorrect length (65095 Bytes, 272300 expected)) at link https://sinaptika.mercubuana.ac.id/wp-content/uploads/2016/08/2.jpg (from https://sinaptika.mercubuana.ac.id/)
+00:41:38	Warning: 	file not stored in cache due to bogus state (broken size, expected 272300 got 65095): https://sinaptika.mercubuana.ac.id/wp-content/uploads/2016/08/2.jpg
+00:41:42	Warning: 	Retry after error -4 (No data (connection closed)) at link https://sinaptika.mercubuana.ac.id/wp-content/uploads/2019/10/WhatsApp-Image-2020-10-03-at-1.49.23-PM.jpeg (from https://sinaptika.mercubuana.ac.id/)
+00:41:51	Warning: 	Moved Permanently for https://sinaptika.mercubuana.ac.id/front-page-features/seminar-nasional/
+00:41:51	Warning: 	File has moved from https://sinaptika.mercubuana.ac.id/front-page-features/seminar-nasional/ to https://sinaptika.mercubuana.ac.id/seminar-nasional-sinaptika/
+00:41:51	Warning: 	Retry after error -4 (Incorrect length (65096 Bytes, 223073 expected)) at link https://sinaptika.mercubuana.ac.id/wp-content/uploads/2021/08/—Pngtree—paper-icon_4422781.png (from https://sinaptika.mercubuana.ac.id/)
+00:41:51	Warning: 	file not stored in cache due to bogus state (broken size, expected 223073 got 65096): https://sinaptika.mercubuana.ac.id/wp-content/uploads/2021/08/—Pngtree—paper-icon_4422781.png
+00:41:55	Warning: 	Retry after error -4 (Incorrect length (65096 Bytes, 152087 expected)) at link https://sinaptika.mercubuana.ac.id/wp-content/uploads/2021/08/—Pngtree—communication-icon_3607833.png (from https://sinaptika.mercubuana.ac.id/)
+00:41:55	Warning: 	file not stored in cache due to bogus state (broken size, expected 152087 got 65096): https://sinaptika.mercubuana.ac.id/wp-content/uploads/2021/08/—Pngtree—communication-icon_3607833.png
+00:42:03	Warning: 	Retry after error -4 (No data (connection closed)) at link https://sinaptika.mercubuana.ac.id/wp-content/uploads/2021/08/prof-rahmat-budiarto.jpg (from https://sinaptika.mercubuana.ac.id/)
+00:42:06	Warning: 	Retry after error -4 (Incorrect length (65095 Bytes, 165474 expected)) at link https://sinaptika.mercubuana.ac.id/wp-content/uploads/2018/04/14-2017.jpg (from https://sinaptika.mercubuana.ac.id/)
+00:42:06	Warning: 	file not stored in cache due to bogus state (broken size, expected 165474 got 65095): https://sinaptika.mercubuana.ac.id/wp-content/uploads/2018/04/14-2017.jpg
+00:42:23	Warning: 	Moved Permanently for https://sinaptika.mercubuana.ac.id/front-page-features/lomba-teknologi-informasi/
+00:42:23	Warning: 	File has moved from https://sinaptika.mercubuana.ac.id/front-page-features/lomba-teknologi-informasi/ to https://sinaptika.mercubuana.ac.id/lomba-teknologi-informasi/
+00:42:23	Warning: 	Moved Permanently for https://sinaptika.mercubuana.ac.id/front-page-features/workshop-teknologi-informasi/
+00:42:23	Warning: 	File has moved from https://sinaptika.mercubuana.ac.id/front-page-features/workshop-teknologi-informasi/ to https://sinaptika.mercubuana.ac.id/workshop-teknologi-informasi-untuk-mahasiswa/
+00:42:23	Error: 	"Forbidden" (403) at link https://demo.themefreesia.com/event/wp-content/uploads/sites/13/2016/08/parallax-3.jpg (from https://sinaptika.mercubuana.ac.id/)
+00:42:23	Error: 	"Forbidden" (403) at link https://demo.themefreesia.com/event/wp-content/uploads/sites/13/2016/08/footer.jpg (from https://sinaptika.mercubuana.ac.id/)
+00:42:23	Error: 	"Unknown error" (522) at link https://sinaptika.mercubuana.ac.id/wp-content/themes/event/assets/sticky/sticky-settings.js?ver=4.9.23 (from https://sinaptika.mercubuana.ac.id/)
+00:42:23	Error: 	"Unknown error" (522) at link https://sinaptika.mercubuana.ac.id/wp-content/plugins/contact-form-7/images/ajax-loader.gif (from https://sinaptika.mercubuana.ac.id/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.1)
+00:42:23	Warning: 	Retry after error -4 (No data (connection closed)) at link https://sinaptika.mercubuana.ac.id/wp-content/themes/event/assets/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0 (from https://sinaptika.mercubuana.ac.id/wp-content/themes/event/assets/font-awesome/css/font-awesome.min.css?ver=4.9.23)
+00:42:23	Warning: 	Retry after error -4 (No data (connection closed)) at link https://sinaptika.mercubuana.ac.id/wp-content/themes/event/assets/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0 (from https://sinaptika.mercubuana.ac.id/wp-content/themes/event/assets/font-awesome/css/font-awesome.min.css?ver=4.9.23)
+00:42:29	Warning: 	Retry after error -4 (Incorrect length (65081 Bytes, 165548 expected)) at link https://sinaptika.mercubuana.ac.id/wp-content/themes/event/assets/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0 (from https://sinaptika.mercubuana.ac.id/wp-content/themes/event/assets/font-awesome/css/font-awesome.min.css?ver=4.9.23)
+00:42:30	Warning: 	file not stored in cache due to bogus state (broken size, expected 165548 got 65081): https://sinaptika.mercubuana.ac.id/wp-content/themes/event/assets/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0
+00:42:30	Warning: 	Retry after error -4 (No data (connection closed)) at link https://sinaptika.mercubuana.ac.id/wp-content/themes/event/assets/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0 (from https://sinaptika.mercubuana.ac.id/wp-content/themes/event/assets/font-awesome/css/font-awesome.min.css?ver=4.9.23)
+00:42:47	Error: 	"Unknown error" (522) at link https://sinaptika.mercubuana.ac.id/wp-content/plugins/kingcomposer/assets/css/fonts/Simple-Line-Icons.svg? (from https://sinaptika.mercubuana.ac.id/wp-content/plugins/kingcomposer/assets/css/icons.css?ver=2.7.2)
+00:42:47	Error: 	"Unknown error" (522) at link https://sinaptika.mercubuana.ac.id/wp-content/plugins/kingcomposer/assets/css/fonts/et-line.eot (from https://sinaptika.mercubuana.ac.id/wp-content/plugins/kingcomposer/assets/css/icons.css?ver=2.7.2)
+00:42:47	Warning: 	Retry after error -4 (No data (connection closed)) at link https://sinaptika.mercubuana.ac.id/wp-content/plugins/kingcomposer/assets/css/fonts/fa-solid-900.eot? (from https://sinaptika.mercubuana.ac.id/wp-content/plugins/kingcomposer/assets/css/icons.css?ver=2.7.2)
+00:42:47	Warning: 	Retry after error -4 (No data (connection closed)) at link https://sinaptika.mercubuana.ac.id/wp-content/plugins/kingcomposer/assets/css/fonts/fa-solid-900.woff2 (from https://sinaptika.mercubuana.ac.id/wp-content/plugins/kingcomposer/assets/css/icons.css?ver=2.7.2)
+00:42:47	Warning: 	Retry after error -4 (Incorrect length (65081 Bytes, 114928 expected)) at link https://sinaptika.mercubuana.ac.id/wp-content/plugins/kingcomposer/assets/css/fonts/fa-solid-900.ttf (from https://sinaptika.mercubuana.ac.id/wp-content/plugins/kingcomposer/assets/css/icons.css?ver=2.7.2)
+00:42:48	Warning: 	file not stored in cache due to bogus state (broken size, expected 114928 got 65081): https://sinaptika.mercubuana.ac.id/wp-content/plugins/kingcomposer/assets/css/fonts/fa-solid-900.ttf
+00:42:48	Warning: 	Retry after error -4 (No data (connection closed)) at link https://sinaptika.mercubuana.ac.id/wp-content/plugins/kingcomposer/assets/css/fonts/fa-brands-400.eot (from https://sinaptika.mercubuana.ac.id/wp-content/plugins/kingcomposer/assets/css/icons.css?ver=2.7.2)
+00:42:48	Warning: 	Retry after error -4 (No data (connection closed)) at link https://sinaptika.mercubuana.ac.id/wp-content/plugins/kingcomposer/assets/css/fonts/fa-brands-400.eot? (from https://sinaptika.mercubuana.ac.id/wp-content/plugins/kingcomposer/assets/css/icons.css?ver=2.7.2)
+00:42:49	Warning: 	File not parsed, looks like binary: https://sinaptika.mercubuana.ac.id/wp-content/plugins/kingcomposer/assets/css/fonts/fa-brands-400.woff2
+00:42:49	Warning: 	Retry after error -4 (No data (connection closed)) at link https://sinaptika.mercubuana.ac.id/?p=521 (from https://sinaptika.mercubuana.ac.id/front-page-features/call-for-paper/)
+00:42:49	Warning: 	Retry after error -4 (Incorrect length (163338 Bytes, 250848 expected)) at link https://sinaptika.mercubuana.ac.id/wp-content/uploads/2021/08/Template-ADIMASSI.docx (from https://sinaptika.mercubuana.ac.id/front-page-features/call-for-paper/)
+00:42:50	Warning: 	file not stored in cache due to bogus state (broken size, expected 250848 got 163338): https://sinaptika.mercubuana.ac.id/wp-content/uploads/2021/08/Template-ADIMASSI.docx
+00:42:52	Warning: 	Retry after error -4 (No data (connection closed)) at link https://sinaptika.mercubuana.ac.id/9-november-2021/ (from https://sinaptika.mercubuana.ac.id/front-page-features/call-for-paper/)
+00:42:53	Warning: 	Retry after error -4 (No data (connection closed)) at link https://sinaptika.mercubuana.ac.id/12-november-2021/ (from https://sinaptika.mercubuana.ac.id/front-page-features/call-for-paper/)
+00:43:07	Warning: 	file not stored in cache due to bogus state (broken size, expected 279295 got 65095): https://sinaptika.mercubuana.ac.id/wp-content/uploads/2018/11/WhatsApp-Image-2020-11-21-at-13.06.09-2.jpeg
+00:43:17	Warning: 	Retry after error -4 (Incorrect length (65095 Bytes, 397001 expected)) at link https://sinaptika.mercubuana.ac.id/wp-content/uploads/2018/04/seminar.jpg (from https://sinaptika.mercubuana.ac.id/seminar-nasional-sinaptika/)
+00:43:18	Warning: 	Moved Permanently for https://sinaptika.mercubuana.ac.id/?p=677
+00:43:18	Warning: 	File has moved from https://sinaptika.mercubuana.ac.id/?p=677 to https://sinaptika.mercubuana.ac.id/seminar-nasional-sinaptika/
+00:43:33	Warning: 	file not stored in cache due to bogus state (broken size, expected 397001 got 65095): https://sinaptika.mercubuana.ac.id/wp-content/uploads/2018/04/seminar.jpg
+00:45:07	Warning: 	Moved Permanently for https://sinaptika.mercubuana.ac.id/?p=685
+00:45:07	Warning: 	File has moved from https://sinaptika.mercubuana.ac.id/?p=685 to https://sinaptika.mercubuana.ac.id/acomodation/
+00:45:07	Warning: 	Moved Permanently for https://sinaptika.mercubuana.ac.id/?p=695
+00:45:07	Warning: 	File has moved from https://sinaptika.mercubuana.ac.id/?p=695 to https://sinaptika.mercubuana.ac.id/acomodation/travels/
+00:45:27	Warning: 	Moved Permanently for https://sinaptika.mercubuana.ac.id/?p=475
+00:45:27	Warning: 	File has moved from https://sinaptika.mercubuana.ac.id/?p=475 to https://sinaptika.mercubuana.ac.id/tentang-sinaptika/
+00:45:31	Warning: 	Moved Permanently for https://sinaptika.mercubuana.ac.id/?p=770
+00:45:31	Warning: 	File has moved from https://sinaptika.mercubuana.ac.id/?p=770 to https://sinaptika.mercubuana.ac.id/tentang-sinaptika/contact-persons/
+00:45:31	Warning: 	Moved Permanently for https://sinaptika.mercubuana.ac.id/?p=186
+00:45:31	Warning: 	File has moved from https://sinaptika.mercubuana.ac.id/?p=186 to https://sinaptika.mercubuana.ac.id/tentang-sinaptika/contact-us/
+00:45:31	Warning: 	Moved Permanently for https://sinaptika.mercubuana.ac.id/?p=1018
+00:45:31	Warning: 	File has moved from https://sinaptika.mercubuana.ac.id/?p=1018 to https://sinaptika.mercubuana.ac.id/seminar-nasional-sinaptika-2021/
+00:45:35	Warning: 	Moved Permanently for https://sinaptika.mercubuana.ac.id/?p=11
+00:45:35	Warning: 	File has moved from https://sinaptika.mercubuana.ac.id/?p=11 to https://sinaptika.mercubuana.ac.id/meningkatkan-inovasi-digital-untuk-menjawab-tantangan-global-dimasa-pandemic/
+00:45:38	Warning: 	Retry after error -4 (Incorrect length (65095 Bytes, 272300 expected)) at link https://sinaptika.mercubuana.ac.id/wp-content/uploads/2016/08/2.jpg (from https://sinaptika.mercubuana.ac.id/)
+00:45:38	Warning: 	Retry after error -4 (No data (connection closed)) at link https://sinaptika.mercubuana.ac.id/?p=163 (from https://sinaptika.mercubuana.ac.id/your-ultimate-event-solution/)
+00:45:39	Warning: 	file not stored in cache due to bogus state (broken size, expected 272300 got 65095): https://sinaptika.mercubuana.ac.id/wp-content/uploads/2016/08/2.jpg
+00:45:39	Warning: 	Moved Permanently for https://sinaptika.mercubuana.ac.id/?p=162
+00:45:39	Warning: 	File has moved from https://sinaptika.mercubuana.ac.id/?p=162 to https://sinaptika.mercubuana.ac.id/seminar-nasional-pengaplikasian-telematika-sinaptika-2020/
+00:45:43	Warning: 	Moved Permanently for https://sinaptika.mercubuana.ac.id/?p=16
+00:45:43	Warning: 	File has moved from https://sinaptika.mercubuana.ac.id/?p=16 to https://sinaptika.mercubuana.ac.id/event-date/
+00:45:43	Warning: 	Retry after error -4 (Incorrect length (65096 Bytes, 223073 expected)) at link https://sinaptika.mercubuana.ac.id/wp-content/uploads/2021/08/—Pngtree—paper-icon_4422781.png (from https://sinaptika.mercubuana.ac.id/)
+00:45:43	Warning: 	Retry after error -4 (No data (connection closed)) at link https://sinaptika.mercubuana.ac.id/?p=1333 (from https://sinaptika.mercubuana.ac.id/pengabdian-masyarakat/)
+00:45:43	Warning: 	file not stored in cache due to bogus state (broken size, expected 223073 got 65096): https://sinaptika.mercubuana.ac.id/wp-content/uploads/2021/08/—Pngtree—paper-icon_4422781.png
+00:45:43	Warning: 	Retry after error -4 (Incorrect length (65096 Bytes, 152087 expected)) at link https://sinaptika.mercubuana.ac.id/wp-content/uploads/2021/08/—Pngtree—communication-icon_3607833.png (from https://sinaptika.mercubuana.ac.id/)
+00:45:44	Warning: 	Retry after error -4 (No data (connection closed)) at link https://sinaptika.mercubuana.ac.id/?p=1278 (from https://sinaptika.mercubuana.ac.id/prof-anton-abdulbasah-kamil/)
+00:45:44	Warning: 	Moved Permanently for https://sinaptika.mercubuana.ac.id/?p=1284
+00:45:44	Warning: 	File has moved from https://sinaptika.mercubuana.ac.id/?p=1284 to https://sinaptika.mercubuana.ac.id/prof-rahmat-budiarto/
+00:45:44	Warning: 	Moved Permanently for https://sinaptika.mercubuana.ac.id/?p=1287
+00:45:44	Warning: 	File has moved from https://sinaptika.mercubuana.ac.id/?p=1287 to https://sinaptika.mercubuana.ac.id/prof-juliana-sutanto/
+00:45:44	Warning: 	Retry after error -4 (Incorrect length (65095 Bytes, 165474 expected)) at link https://sinaptika.mercubuana.ac.id/wp-content/uploads/2018/04/14-2017.jpg (from https://sinaptika.mercubuana.ac.id/)
+00:45:45	Warning: 	Retry after error -4 (No data (connection closed)) at link https://sinaptika.mercubuana.ac.id/?p=141 (from https://sinaptika.mercubuana.ac.id/gallery/seminar-nasional-mou/)
+00:47:07	Warning: 	Moved Permanently for https://sinaptika.mercubuana.ac.id/?p=149
+00:47:07	Warning: 	File has moved from https://sinaptika.mercubuana.ac.id/?p=149 to https://sinaptika.mercubuana.ac.id/gallery/innovative-events/
+00:47:07	Warning: 	Moved Permanently for https://sinaptika.mercubuana.ac.id/?p=150
+00:47:07	Warning: 	File has moved from https://sinaptika.mercubuana.ac.id/?p=150 to https://sinaptika.mercubuana.ac.id/gallery/promotions-and-product-launches/
+00:47:07	Warning: 	Moved Permanently for https://sinaptika.mercubuana.ac.id/lomba-teknologi-informasi/
+00:47:07	Warning: 	File has moved from https://sinaptika.mercubuana.ac.id/lomba-teknologi-informasi/ to https://sinaptika.mercubuana.ac.id/kompetisi-teknologi-informasi/
+00:47:07	Warning: 	Moved Permanently for https://sinaptika.mercubuana.ac.id/workshop-teknologi-informasi-untuk-mahasiswa/
+00:47:07	Warning: 	File has moved from https://sinaptika.mercubuana.ac.id/workshop-teknologi-informasi-untuk-mahasiswa/ to https://sinaptika.mercubuana.ac.id/workshop-teknologi-informasi-untuk-mahasiswa-dan-umum/
+00:47:07	Warning: 	File not parsed, looks like binary: https://sinaptika.mercubuana.ac.id/wp-content/themes/event/assets/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+00:47:07	Warning: 	Retry after error -4 (Incorrect length (65081 Bytes, 165548 expected)) at link https://sinaptika.mercubuana.ac.id/wp-content/themes/event/assets/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0 (from https://sinaptika.mercubuana.ac.id/wp-content/themes/event/assets/font-awesome/css/font-awesome.min.css?ver=4.9.23)
+00:47:08	Warning: 	file not stored in cache due to bogus state (broken size, expected 165548 got 65081): https://sinaptika.mercubuana.ac.id/wp-content/themes/event/assets/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0
+00:47:08	Warning: 	Retry after error -4 (No data (connection closed)) at link https://sinaptika.mercubuana.ac.id/wp-content/themes/event/assets/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0 (from https://sinaptika.mercubuana.ac.id/wp-content/themes/event/assets/font-awesome/css/font-awesome.min.css?ver=4.9.23)
+00:47:08	Error: 	"Unknown error" (522) at link https://sinaptika.mercubuana.ac.id/wp-content/plugins/forget-about-shortcode-buttons/public/fonts/fontawesome-webfont.eot? (from https://sinaptika.mercubuana.ac.id/wp-content/plugins/forget-about-shortcode-buttons/public/css/font-awesome.min.css)
+00:47:08	Error: 	"Unknown error" (522) at link https://sinaptika.mercubuana.ac.id/wp-content/plugins/forget-about-shortcode-buttons/public/fonts/fontawesome-webfont.woff?v=4.0.3 (from https://sinaptika.mercubuana.ac.id/wp-content/plugins/forget-about-shortcode-buttons/public/css/font-awesome.min.css)
+00:47:08	Warning: 	File not parsed, looks like binary: https://sinaptika.mercubuana.ac.id/wp-content/plugins/kingcomposer/assets/css/fonts/fa-solid-900.woff2
+00:47:08	Warning: 	Retry after error -4 (Incorrect length (65081 Bytes, 114928 expected)) at link https://sinaptika.mercubuana.ac.id/wp-content/plugins/kingcomposer/assets/css/fonts/fa-solid-900.ttf (from https://sinaptika.mercubuana.ac.id/wp-content/plugins/kingcomposer/assets/css/icons.css?ver=2.7.2)
+00:47:09	Warning: 	file not stored in cache due to bogus state (broken size, expected 114928 got 65081): https://sinaptika.mercubuana.ac.id/wp-content/plugins/kingcomposer/assets/css/fonts/fa-solid-900.ttf
+00:47:09	Warning: 	Retry after error -4 (No data (connection closed)) at link https://sinaptika.mercubuana.ac.id/wp-content/plugins/kingcomposer/assets/css/fonts/fa-brands-400.eot (from https://sinaptika.mercubuana.ac.id/wp-content/plugins/kingcomposer/assets/css/icons.css?ver=2.7.2)
+00:47:09	Warning: 	Retry after error -4 (No data (connection closed)) at link https://sinaptika.mercubuana.ac.id/?p=521 (from https://sinaptika.mercubuana.ac.id/front-page-features/call-for-paper/)
+00:47:20	Warning: 	Retry after error -4 (Incorrect length (163338 Bytes, 250848 expected)) at link https://sinaptika.mercubuana.ac.id/wp-content/uploads/2021/08/Template-ADIMASSI.docx (from https://sinaptika.mercubuana.ac.id/front-page-features/call-for-paper/)
+00:47:21	Warning: 	file not stored in cache due to bogus state (broken size, expected 250848 got 163338): https://sinaptika.mercubuana.ac.id/wp-content/uploads/2021/08/Template-ADIMASSI.docx
+00:47:21	Warning: 	Moved Permanently for https://sinaptika.mercubuana.ac.id/?p=1403
+00:47:21	Warning: 	File has moved from https://sinaptika.mercubuana.ac.id/?p=1403 to https://sinaptika.mercubuana.ac.id/7-november-2021/
+00:47:21	Warning: 	Retry after error -4 (No data (connection closed)) at link https://sinaptika.mercubuana.ac.id/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsinaptika.mercubuana.ac.id%2F7-november-2021%2F (from https://sinaptika.mercubuana.ac.id/7-november-2021/)
+00:47:29	Warning: 	Moved Permanently for https://sinaptika.mercubuana.ac.id/?p=1397
+00:47:29	Warning: 	File has moved from https://sinaptika.mercubuana.ac.id/?p=1397 to https://sinaptika.mercubuana.ac.id/9-november-s-d-12-november-2021/
+00:47:53	Warning: 	Retry after error -4 (Incorrect length (65095 Bytes, 279295 expected)) at link https://sinaptika.mercubuana.ac.id/wp-content/uploads/2018/11/WhatsApp-Image-2020-11-21-at-13.06.09-2.jpeg (from https://sinaptika.mercubuana.ac.id/2018/11/)
+00:47:53	Warning: 	file not stored in cache due to bogus state (broken size, expected 279295 got 65095): https://sinaptika.mercubuana.ac.id/wp-content/uploads/2018/11/WhatsApp-Image-2020-11-21-at-13.06.09-2.jpeg
+00:47:53	Warning: 	Retry after error -4 (No data (connection closed)) at link https://sinaptika.mercubuana.ac.id/wp-content/uploads/2018/04/workshop.jpg (from https://sinaptika.mercubuana.ac.id/2018/04/)
+00:48:56	Warning: 	Retry after error -4 (Incorrect length (65095 Bytes, 397001 expected)) at link https://sinaptika.mercubuana.ac.id/wp-content/uploads/2018/04/seminar.jpg (from https://sinaptika.mercubuana.ac.id/seminar-nasional-sinaptika/)
+00:48:56	Warning: 	Retry after error -4 (No data (connection closed)) at link https://sinaptika.mercubuana.ac.id/author/sinaptikamercubuana-ac-id/page/2/ (from https://sinaptika.mercubuana.ac.id/author/sinaptikamercubuana-ac-id/)
+00:48:56	Warning: 	file not stored in cache due to bogus state (broken size, expected 397001 got 65095): https://sinaptika.mercubuana.ac.id/wp-content/uploads/2018/04/seminar.jpg
+00:48:56	Warning: 	Moved Permanently for https://sinaptika.mercubuana.ac.id/?p=675
+00:48:56	Warning: 	File has moved from https://sinaptika.mercubuana.ac.id/?p=675 to https://sinaptika.mercubuana.ac.id/kompetisi-teknologi-informasi-2/
+00:48:56	Warning: 	Moved Permanently for https://sinaptika.mercubuana.ac.id/?p=989
+00:48:56	Warning: 	File has moved from https://sinaptika.mercubuana.ac.id/?p=989 to https://sinaptika.mercubuana.ac.id/presentasi-paralel-session/
+00:48:56	Warning: 	Moved Permanently for https://sinaptika.mercubuana.ac.id/?p=697
+00:48:56	Warning: 	File has moved from https://sinaptika.mercubuana.ac.id/?p=697 to https://sinaptika.mercubuana.ac.id/acomodation/hotels/
+00:48:56	Warning: 	Moved Permanently for https://sinaptika.mercubuana.ac.id/?p=768
+00:48:56	Warning: 	File has moved from https://sinaptika.mercubuana.ac.id/?p=768 to https://sinaptika.mercubuana.ac.id/tentang-sinaptika/committe/
+00:48:56	Warning: 	Moved Permanently for https://sinaptika.mercubuana.ac.id/?p=1232
+00:48:56	Warning: 	File has moved from https://sinaptika.mercubuana.ac.id/?p=1232 to https://sinaptika.mercubuana.ac.id/12-desember-2020/
+00:48:56	Warning: 	Moved Permanently for https://sinaptika.mercubuana.ac.id/?p=193
+00:48:56	Warning: 	File has moved from https://sinaptika.mercubuana.ac.id/?p=193 to https://sinaptika.mercubuana.ac.id/a-passion-for-planning-enjoy-putting-their-plans-into-action-and-organizing-events/
+00:48:56	Error: 	"Incorrect length (65095 Bytes, 272300 expected)" (-4) after 2 retries at link https://sinaptika.mercubuana.ac.id/wp-content/uploads/2016/08/2.jpg (from https://sinaptika.mercubuana.ac.id/)
+00:48:56	Warning: 	Moved Permanently for https://sinaptika.mercubuana.ac.id/?p=163
+00:48:56	Warning: 	File has moved from https://sinaptika.mercubuana.ac.id/?p=163 to https://sinaptika.mercubuana.ac.id/your-ultimate-event-solution/
+00:48:56	Warning: 	Retry after error -4 (No data (connection closed)) at link https://sinaptika.mercubuana.ac.id/fee/ (from https://sinaptika.mercubuana.ac.id/category/fasilkom-univ-mercu-buana/)
+00:49:01	Error: 	"Incorrect length (65096 Bytes, 223073 expected)" (-4) after 2 retries at link https://sinaptika.mercubuana.ac.id/wp-content/uploads/2021/08/—Pngtree—paper-icon_4422781.png (from https://sinaptika.mercubuana.ac.id/)
+00:49:01	Warning: 	Moved Permanently for https://sinaptika.mercubuana.ac.id/?p=1333
+00:49:01	Warning: 	File has moved from https://sinaptika.mercubuana.ac.id/?p=1333 to https://sinaptika.mercubuana.ac.id/pengabdian-masyarakat/
+00:49:01	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://sinaptika.mercubuana.ac.id/wp-content/uploads/2021/08/—Pngtree—communication-icon_3607833.png (from https://sinaptika.mercubuana.ac.id/)
+00:49:01	Warning: 	Moved Permanently for https://sinaptika.mercubuana.ac.id/?p=1278
+00:49:01	Warning: 	File has moved from https://sinaptika.mercubuana.ac.id/?p=1278 to https://sinaptika.mercubuana.ac.id/prof-anton-abdulbasah-kamil/
+00:49:01	Warning: 	Moved Permanently for https://sinaptika.mercubuana.ac.id/?p=141
+00:49:01	Warning: 	File has moved from https://sinaptika.mercubuana.ac.id/?p=141 to https://sinaptika.mercubuana.ac.id/gallery/seminar-nasional-mou/
+00:49:01	Error: 	"Incorrect length (65081 Bytes, 165548 expected)" (-4) after 2 retries at link https://sinaptika.mercubuana.ac.id/wp-content/themes/event/assets/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0 (from https://sinaptika.mercubuana.ac.id/wp-content/themes/event/assets/font-awesome/css/font-awesome.min.css?ver=4.9.23)
+00:49:01	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://sinaptika.mercubuana.ac.id/wp-content/themes/event/assets/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0 (from https://sinaptika.mercubuana.ac.id/wp-content/themes/event/assets/font-awesome/css/font-awesome.min.css?ver=4.9.23)
+00:49:01	Error: 	"Incorrect length (65081 Bytes, 114928 expected)" (-4) after 2 retries at link https://sinaptika.mercubuana.ac.id/wp-content/plugins/kingcomposer/assets/css/fonts/fa-solid-900.ttf (from https://sinaptika.mercubuana.ac.id/wp-content/plugins/kingcomposer/assets/css/icons.css?ver=2.7.2)
+00:49:01	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://sinaptika.mercubuana.ac.id/wp-content/plugins/kingcomposer/assets/css/fonts/fa-brands-400.eot (from https://sinaptika.mercubuana.ac.id/wp-content/plugins/kingcomposer/assets/css/icons.css?ver=2.7.2)
+00:49:01	Warning: 	Moved Permanently for https://sinaptika.mercubuana.ac.id/?p=521
+00:49:01	Warning: 	File has moved from https://sinaptika.mercubuana.ac.id/?p=521 to https://sinaptika.mercubuana.ac.id/front-page-features/call-for-paper/
+00:49:01	Error: 	"Incorrect length (163338 Bytes, 250848 expected)" (-4) after 2 retries at link https://sinaptika.mercubuana.ac.id/wp-content/uploads/2021/08/Template-ADIMASSI.docx (from https://sinaptika.mercubuana.ac.id/front-page-features/call-for-paper/)
+00:49:01	Warning: 	Retry after error -4 (No data (connection closed)) at link https://sinaptika.mercubuana.ac.id/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsinaptika.mercubuana.ac.id%2F7-november-2021%2F (from https://sinaptika.mercubuana.ac.id/7-november-2021/)
+00:49:01	Warning: 	Moved Permanently for https://sinaptika.mercubuana.ac.id/?p=1401
+00:49:01	Warning: 	File has moved from https://sinaptika.mercubuana.ac.id/?p=1401 to https://sinaptika.mercubuana.ac.id/9-november-2021/
+00:49:01	Warning: 	Moved Permanently for https://sinaptika.mercubuana.ac.id/?p=1399
+00:49:01	Warning: 	File has moved from https://sinaptika.mercubuana.ac.id/?p=1399 to https://sinaptika.mercubuana.ac.id/12-november-2021/
+00:49:01	Warning: 	Moved Permanently for https://sinaptika.mercubuana.ac.id/?p=1383
+00:49:01	Warning: 	File has moved from https://sinaptika.mercubuana.ac.id/?p=1383 to https://sinaptika.mercubuana.ac.id/02-november-s-d-05-november-2021/
+00:49:01	Warning: 	Moved Permanently for https://sinaptika.mercubuana.ac.id/?p=1381
+00:49:01	Warning: 	File has moved from https://sinaptika.mercubuana.ac.id/?p=1381 to https://sinaptika.mercubuana.ac.id/05-november-2021/
+00:49:01	Warning: 	Moved Permanently for https://sinaptika.mercubuana.ac.id/?p=1379
+00:49:01	Warning: 	File has moved from https://sinaptika.mercubuana.ac.id/?p=1379 to https://sinaptika.mercubuana.ac.id/02-november-2021/
+00:49:01	Warning: 	Moved Permanently for https://sinaptika.mercubuana.ac.id/?p=1377
+00:49:01	Warning: 	File has moved from https://sinaptika.mercubuana.ac.id/?p=1377 to https://sinaptika.mercubuana.ac.id/1-oktober-s-d-24-oktober-2021/
+00:49:01	Warning: 	Moved Permanently for https://sinaptika.mercubuana.ac.id/?p=1300
+00:49:01	Warning: 	File has moved from https://sinaptika.mercubuana.ac.id/?p=1300 to https://sinaptika.mercubuana.ac.id/ketentuan/
+00:49:01	Warning: 	Moved Permanently for https://sinaptika.mercubuana.ac.id/?p=1234
+00:49:01	Warning: 	File has moved from https://sinaptika.mercubuana.ac.id/?p=1234 to https://sinaptika.mercubuana.ac.id/12-desember-2020-2/
+00:49:01	Warning: 	file not stored in cache due to bogus state (broken size, expected 165474 got 65095): https://sinaptika.mercubuana.ac.id/wp-content/uploads/2018/04/14-2017.jpg
+00:49:06	Warning: 	Retry after error -4 (Incorrect length (65095 Bytes, 279295 expected)) at link https://sinaptika.mercubuana.ac.id/wp-content/uploads/2018/11/WhatsApp-Image-2020-11-21-at-13.06.09-2.jpeg (from https://sinaptika.mercubuana.ac.id/2018/11/)
+00:49:06	Warning: 	Retry after error -4 (No data (connection closed)) at link https://sinaptika.mercubuana.ac.id/wp-content/uploads/2018/04/workshop.jpg (from https://sinaptika.mercubuana.ac.id/2018/04/)
+00:49:06	Warning: 	Moved Permanently for https://sinaptika.mercubuana.ac.id/?p=665
+00:49:06	Warning: 	File has moved from https://sinaptika.mercubuana.ac.id/?p=665 to https://sinaptika.mercubuana.ac.id/workshop-teknologi-informasi-untuk-mahasiswa-dan-umum/
+00:49:06	Warning: 	Moved Permanently for https://sinaptika.mercubuana.ac.id/?p=662
+00:49:06	Warning: 	File has moved from https://sinaptika.mercubuana.ac.id/?p=662 to https://sinaptika.mercubuana.ac.id/kompetisi-teknologi-informasi/
+00:49:06	Warning: 	Moved Permanently for https://sinaptika.mercubuana.ac.id/?p=547
+00:49:06	Warning: 	File has moved from https://sinaptika.mercubuana.ac.id/?p=547 to https://sinaptika.mercubuana.ac.id/1-17-oktober-2018/
+00:49:06	Warning: 	Moved Permanently for https://sinaptika.mercubuana.ac.id/?p=545
+00:49:06	Warning: 	File has moved from https://sinaptika.mercubuana.ac.id/?p=545 to https://sinaptika.mercubuana.ac.id/1-oktober-2018/
+00:49:06	Warning: 	Moved Permanently for https://sinaptika.mercubuana.ac.id/?p=541
+00:49:06	Warning: 	File has moved from https://sinaptika.mercubuana.ac.id/?p=541 to https://sinaptika.mercubuana.ac.id/10-september-2018/
+00:49:06	Warning: 	Moved Permanently for https://sinaptika.mercubuana.ac.id/?p=539
+00:49:06	Warning: 	File has moved from https://sinaptika.mercubuana.ac.id/?p=539 to https://sinaptika.mercubuana.ac.id/16-30-juli-2018/
+00:49:06	Warning: 	Moved Permanently for https://sinaptika.mercubuana.ac.id/?p=537
+00:49:06	Warning: 	File has moved from https://sinaptika.mercubuana.ac.id/?p=537 to https://sinaptika.mercubuana.ac.id/16-juli-2018/
+00:49:06	Warning: 	Moved Permanently for https://sinaptika.mercubuana.ac.id/?p=535
+00:49:06	Warning: 	File has moved from https://sinaptika.mercubuana.ac.id/?p=535 to https://sinaptika.mercubuana.ac.id/2-juli-2018/
+00:49:06	Warning: 	Moved Permanently for https://sinaptika.mercubuana.ac.id/?p=365
+00:49:06	Warning: 	File has moved from https://sinaptika.mercubuana.ac.id/?p=365 to https://sinaptika.mercubuana.ac.id/a-passion-for-planning-enjoy-putting-their-plans-into-action/
+00:49:06	Warning: 	Moved Permanently for https://sinaptika.mercubuana.ac.id/?p=363
+00:49:06	Warning: 	File has moved from https://sinaptika.mercubuana.ac.id/?p=363 to https://sinaptika.mercubuana.ac.id/event-involves-the-planning-of-all-kinds-of-events-4/
+00:49:06	Warning: 	Moved Permanently for https://sinaptika.mercubuana.ac.id/?p=361
+00:49:06	Warning: 	File has moved from https://sinaptika.mercubuana.ac.id/?p=361 to https://sinaptika.mercubuana.ac.id/event-involves-the-planning-of-all-kinds-of-events-3/
+00:49:06	Warning: 	Moved Permanently for https://sinaptika.mercubuana.ac.id/?p=359
+00:49:06	Warning: 	File has moved from https://sinaptika.mercubuana.ac.id/?p=359 to https://sinaptika.mercubuana.ac.id/do-you-have-a-passion-for-organizing-and-meeting-new-people/
+00:49:06	Warning: 	Moved Permanently for https://sinaptika.mercubuana.ac.id/?p=375
+00:49:06	Warning: 	File has moved from https://sinaptika.mercubuana.ac.id/?p=375 to https://sinaptika.mercubuana.ac.id/hello-world-3/
+00:49:06	Warning: 	Moved Permanently for https://sinaptika.mercubuana.ac.id/?p=202
+00:49:06	Warning: 	File has moved from https://sinaptika.mercubuana.ac.id/?p=202 to https://sinaptika.mercubuana.ac.id/event-involves-the-planning-of-all-kinds-of-events-2/
+00:49:06	Warning: 	Moved Permanently for https://sinaptika.mercubuana.ac.id/?p=200
+00:49:06	Warning: 	File has moved from https://sinaptika.mercubuana.ac.id/?p=200 to https://sinaptika.mercubuana.ac.id/event-involves-the-planning-of-all-kinds-of-events/
+00:49:06	Warning: 	Moved Permanently for https://sinaptika.mercubuana.ac.id/?p=201
+00:49:06	Warning: 	File has moved from https://sinaptika.mercubuana.ac.id/?p=201 to https://sinaptika.mercubuana.ac.id/the-clean-typography-and-awesome-white-layout/
+00:49:06	Error: 	"Incorrect length (65095 Bytes, 397001 expected)" (-4) after 2 retries at link https://sinaptika.mercubuana.ac.id/wp-content/uploads/2018/04/seminar.jpg (from https://sinaptika.mercubuana.ac.id/seminar-nasional-sinaptika/)
+00:49:06	Warning: 	Retry after error -4 (No data (connection closed)) at link https://sinaptika.mercubuana.ac.id/fee/ (from https://sinaptika.mercubuana.ac.id/category/fasilkom-univ-mercu-buana/)
+00:49:06	Warning: 	file not stored in cache due to bogus state (broken size, expected 279295 got 65095): https://sinaptika.mercubuana.ac.id/wp-content/uploads/2018/11/WhatsApp-Image-2020-11-21-at-13.06.09-2.jpeg
+00:49:06	Warning: 	Moved Permanently for https://sinaptika.mercubuana.ac.id/?p=1
+00:49:06	Warning: 	File has moved from https://sinaptika.mercubuana.ac.id/?p=1 to https://sinaptika.mercubuana.ac.id/hello-world/
+00:49:06	Error: 	"Incorrect length (65095 Bytes, 165474 expected)" (-4) after 2 retries at link https://sinaptika.mercubuana.ac.id/wp-content/uploads/2018/04/14-2017.jpg (from https://sinaptika.mercubuana.ac.id/wp-content/uploads/2018/04/14-2017.jpg)
+00:49:06	Warning: 	Retry after error -4 (No data (connection closed)) at link https://sinaptika.mercubuana.ac.id/1-juni-2018/feed/ (from https://sinaptika.mercubuana.ac.id/1-juni-2018/)
+00:49:07	Warning: 	Moved Permanently for https://sinaptika.mercubuana.ac.id/?p=531
+00:49:07	Warning: 	File has moved from https://sinaptika.mercubuana.ac.id/?p=531 to https://sinaptika.mercubuana.ac.id/1-juni-2018/
+00:49:07	Error: 	"Incorrect length (65095 Bytes, 279295 expected)" (-4) after 2 retries at link https://sinaptika.mercubuana.ac.id/wp-content/uploads/2018/11/WhatsApp-Image-2020-11-21-at-13.06.09-2.jpeg (from https://sinaptika.mercubuana.ac.id/2018/11/)
+00:49:07	Warning: 	file not stored in cache due to bogus state (broken size, expected 326650 got 65095): https://sinaptika.mercubuana.ac.id/wp-content/uploads/2018/04/workshop.jpg
+00:49:07	Error: 	"Incorrect length (65095 Bytes, 326650 expected)" (-4) after 2 retries at link https://sinaptika.mercubuana.ac.id/wp-content/uploads/2018/04/workshop.jpg (from https://sinaptika.mercubuana.ac.id/2018/04/)
+00:49:11	Warning: 	Retry after error -4 (No data (connection closed)) at link https://sinaptika.mercubuana.ac.id/1-juni-2018/feed/ (from https://sinaptika.mercubuana.ac.id/1-juni-2018/)
+00:49:12	Warning: 	Moved Permanently for https://sinaptika.mercubuana.ac.id/?p=506
+00:49:12	Warning: 	File has moved from https://sinaptika.mercubuana.ac.id/?p=506 to https://sinaptika.mercubuana.ac.id/fee/
+00:49:12	Warning: 	Retry after error -4 (No data (connection closed)) at link https://sinaptika.mercubuana.ac.id/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsinaptika.mercubuana.ac.id%2Ffee%2F (from https://sinaptika.mercubuana.ac.id/fee/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 10 minutes 34 seconds : 499 links scanned, 368 files written (7354962 bytes overall) [5319595 bytes received at 8390 bytes/sec], 5183457 bytes transferred using HTTP compression in 305 files, ratio 35%, 7.6 requests per connection
+(21 errors, 198 warnings, 0 messages)
